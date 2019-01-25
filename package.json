@@ -1,0 +1,19 @@
+{
+  "name": "challenge-scale-balancing",
+  "version": "0.0.1",
+  "description": "Morning challenge.",
+  "main": "scale-balancing.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbuzzeo/Challenge-Scale-Balancing.git"
+  },
+  "author": "zbuzzeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbuzzeo/Challenge-Scale-Balancing/issues"
+  },
+  "homepage": "https://github.com/zbuzzeo/Challenge-Scale-Balancing#readme"
+}
